@@ -47,8 +47,7 @@ const About = () => {
       <div className="py-16">
         <h3 className="subhead-text">Work Experience</h3>
         <p className="mt-4 text-slate-600 max-w-3xl">
-          I’ve collaborated with diverse teams and individuals, constantly evolving my
-          skills. Here’s a quick timeline of my journey:
+          From collaborating with amazing teams to leveling up my skills — it's been quite a ride! Here's a snapshot of my journey:
         </p>
 
         <div className="mt-12">

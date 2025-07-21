@@ -112,11 +112,11 @@ export const experiences = [
         company_name: "HPCL",
         icon: HPCL,
         iconBg: "#accbe1",
-        date: "Jun 02, 2025- July 02, 2-2025",
+        date: "Jun 02, 2025- July 02, 2025",
         points: [
             "Learned about servers, gaining hands-on experience with enterprise-level server management and virtualization.",
             "Experimented with building personal servers using old phones/laptops; later migrated to VMware-based setups for stability and redundancy.",
-            "Developed an Emergency Routing System with chatbot integration to assist HPCL trainees and rescue teams with optimal paths during emergencies.",
+            "Developed an Emergency Routing System with chatbot integration to assist HPCL trainees and rescue teams with optimal paths during emergencies. Built this ",
         ],
     },
     {
@@ -172,7 +172,7 @@ export const projects = [
         iconUrl: ers,
         theme: 'btn-back-pink',
         name: 'Emergency Routing Systems',
-        description: 'Developed a web-based Emergency Routing System for a 1053-acre HPCL refinery, enabling real-time access to company policies, safety manuals, and emergency protocols. Designed an interactive hazard routing feature to guide personnel to the nearest safety shelter during critical incidents, integrating location awareness and safety mapping. It can also support the 200+ trainees, allowing new joiners to upload safety documents and ask AI-powered queries; aligned with the Fire & Safety Departments operational needs.',
+        description: 'Developed a web-based Emergency Routing System for a 1053-acre HPCL refinery, enabling real-time access to company policies, safety manuals, and emergency protocols. Designed an interactive hazard routing feature to guide personnel to the nearest safety shelter during critical incidents, integrating location awareness and safety mapping. It can also support the 200+ trainees, allowing new joiners to upload safety documents and ask AI-powered queries; aligned with the Fire & Safety Departments operational needs. Worked together as 3 member team- Hemanth, Saathvic and myself.',
         link: 'https://hpcl-assistant.vercel.app/',
     },
     {
